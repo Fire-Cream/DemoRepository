@@ -1,2 +1,5 @@
-# DemoRepository
-Demo仓库
+# Demo仓库
+
+会不定时更新一些自己学习或者工作中使用到的某一个技术的Demo
+
+1. Mqtt(基础版)

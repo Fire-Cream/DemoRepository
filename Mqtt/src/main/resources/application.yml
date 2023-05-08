@@ -1,0 +1,7 @@
+mqtt:
+  brokerUrl:                    # 你的broker网址
+  username:                     # broker的用户名
+  password:                     # broker的密码
+  clientId:                     # 客户端id，不可重复
+  pubTopic:                     # 发布的topic
+  subTopic:                     # 订阅的topic，订阅成功可以接收到消息
